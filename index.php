@@ -338,7 +338,7 @@
 			<div class="container article-main">
 				<div class="row">
 					<div class="col-md-24 page-header">
-						<h1 id="headline"><img src="http://www.pccnst.ac.th/assets/img/pccnst.png" style="height: 50px; width: auto;" /> ข่าวจากเครือข่ายโรงเรียนจุฬาภรณราชวิทยาลัยอื่นๆ ทั้ง 11 แห่ง</h1>
+						<h1 id="headline"><img src="./assets/pccnst.png" style="height: 50px; width: auto;" /> ข่าวจากเครือข่ายโรงเรียนจุฬาภรณราชวิทยาลัยอื่นๆ ทั้ง 11 แห่ง</h1>
 					</div>
 				</div>
 				<div class="row">
