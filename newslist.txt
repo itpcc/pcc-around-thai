@@ -1,0 +1,12 @@
+http://pccp.ac.th/web/?feed=rss2
+http://www.pccphet.ac.th/newpccphet/feed/
+http://www.pccpl.ac.th/pccpl2012/index.php/en/?format=feed&type=rss
+http://web.pcctrg.ac.th/pcctrg/index.php?option=com_content&view=category&id=31&format=feed&type=rss
+--------------------------------
+http://203.172.174.205/kaesadnews/latest_news.php
+http://182.93.222.55/pcccr/enews/
+http://www.pccst.ac.th/
+http://www.pccchon.ac.th/index1.html
+http://www.pccl.ac.th/index2.php?usid=20100003
+https://sites.google.com/site/pccbr2013/home
+http://www.pccloei.ac.th/pccloeiweb/web/showcontent.php?id=2
